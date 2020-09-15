@@ -3,7 +3,7 @@
 ## Project Proposal
 Create a website that serves as a weather visualization dashboard using weather data/plots from the city weather latitude project. 
 
-### City Weather Latitude Project Background
+#### City Weather Latitude Project Background
 This project pulled data from the OpenWeatherMap API on over 500 cities to understand how various weather indicators change as you move closer to the equator. 
 
 ## Tools Used
