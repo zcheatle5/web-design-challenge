@@ -1,7 +1,7 @@
 # Web-Design-Project
 
 ## Project Proposal
-Create a website that serves as a weather visualization dashboard using weather data/plots from a previous project.
+Create a website that serves as a weather visualization dashboard using weather data/plots from the city weather latitude project.
 
 ## Tools Used
   - HTML
