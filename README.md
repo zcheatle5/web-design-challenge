@@ -1,7 +1,7 @@
 # Web-Design-Challenge
 
 ## Project Proposal
-Use HTML, CSS and BOOTSTRAP to create a website that serves as a weather visualization dashboard using weather data/plots from a previous project.
+Create a website that serves as a weather visualization dashboard using weather data/plots from a previous project.
 
 ### Website Components
 
