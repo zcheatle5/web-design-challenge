@@ -3,7 +3,8 @@
 ## Project Proposal
 Create a website that serves as a weather visualization dashboard using weather data/plots from a previous project.
 
-### Website Components
+
+## Website Components
 
 1.) Home page that summarizes the project and displays a carousel of all weather plots.
 
