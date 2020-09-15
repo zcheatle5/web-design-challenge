@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Web-Design-Project
 
 ## Project Proposal
 Create a website that serves as a weather visualization dashboard using weather data/plots from a previous project.
