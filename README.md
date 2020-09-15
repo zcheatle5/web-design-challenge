@@ -1,7 +1,9 @@
 # Web-Design-Project
 
 ## Project Proposal
-Create a website that serves as a weather visualization dashboard using weather data/plots from the city weather latitude project. This project pulled data from 
+Create a website that serves as a weather visualization dashboard using weather data/plots from the city weather latitude project. 
+
+This project pulled data from 
 the OpenWeatherMap API on over 500 cities to understand how various weather indicators change as you move closer to the equator. 
 
 ## Tools Used
